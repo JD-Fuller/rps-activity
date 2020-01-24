@@ -26,7 +26,7 @@ namespace rps_activity
         {
           String selection = Console.ReadLine().ToLower();
 
-          String[] winStatements = { "You win human...for now", "How dare you defy me!", "You win petty carbon based life form!", "This will not stand, I demand a rematch", "You cheated!", "Enough, I'm done losing to you human", "Get out, I'm tired of your petty wins", "This will not be forgotten human - you win now, but watch your back" };
+          String[] winStatements = { "You win human...for now", "How dare you defy me!", "You win petty carbon based life form!", "This will not stand, I demand a rematch", "You cheated!", "Enough, I'm done losing to you human", "Get out, I'm tired of your petty wins", "This will not be forgotten human - you win now, but watch your back", "Well played good sir, well played." };
 
 
           String[] computerChoices = { "p", "s", "r" };
